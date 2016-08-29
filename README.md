@@ -2,6 +2,7 @@
 
 ## 教材
 [Think Python(How to Think Like A Computer Scientist)](http://codingpy.com/books/thinkpython2/)
+教材的话请大家自行从头阅读，不会每天再给大家布置教材阅读的任务。争取每天能够完整阅读并理解一章。
 
 ## 视频
 
