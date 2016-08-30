@@ -20,3 +20,4 @@
 
 * [如何注册 Pythonanywhere](http://o71w1wc99.bkt.clouddn.com/CS101-00.mp4)
 * [Python 编程环境介绍](http://o71w1wc99.bkt.clouddn.com/CS101-01.mp4) (第一天8月29日任务)
+* [Pythonanywhere 上的脚本编程模式](http://o71w1wc99.bkt.clouddn.com/CS101-02.mp4)
